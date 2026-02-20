@@ -1,5 +1,6 @@
 # sabri-factorial
 EJEMPLO CLASE
 
-# Requisitos
-java
+## Requisitos
+- Python 3.11+
+- Java JDK 11+
